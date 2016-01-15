@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_back.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_unselected.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/btn_unselected.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/btn_selected.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/btn_selected.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_back_write.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/icon_back_write.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_photo_loading.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/ic_photo_loading.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chatting_setmode_keyboard_btn_normal.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chatting_biaoqing_btn_normal.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chatting_setmode_voice_btn_normal.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/chatting_setmode_voice_btn_normal.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/text_indicator_pressed.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/text_indicator_pressed.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/text_indicator_normal.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/text_indicator_normal.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_image_normal.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/chat_image_normal.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_takepic_normal.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/chat_takepic_normal.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_red_dot.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/icon_red_dot.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon_arrow_down.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/icon_arrow_down.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_recording_press.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/chat_recording_press.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/chat_recording_normal.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/chat_recording_normal.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_dir.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/ic_dir.png"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_dir_choose.png",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable-xhdpi/ic_dir_choose.png"
+    }
+]

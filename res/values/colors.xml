@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="default_light_grey_color">#929292</color>
+    <color name="default_green_color">#81b228</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="default_blue_color">#0f78cb</color>
+
+    <!-- default -->
+    <color name="default_key_color">#999999</color>
+    <color name="default_line_color">#cccccc</color>
+    <color name="contact_name_color">#222222</color>
+    <color name="default_light_black_color">#424242</color>
+    <color name="default_txt_ash_color">#999999</color>
+    <color name="txt_hint_color">#999999</color>
+    <color name="list_divider">#e0e0e0</color>
+    <color name="black">#000000</color>
+    <color name="grey">#808080</color>
+    <color name="frame_background">#f0f0f0</color>
+    <color name="tab_text">#9C9C9C</color>
+
+    <drawable name="list_divider">#e0e0e0</drawable>
+
+    <color name="contact_default_bk">#dedee0</color>
+    <color name="main_bg_color">#eeeeee</color>
+ 
+     <color name="bg_floder_press">#bdbdbd</color>
+ 
+    <color name="main_color">#93a2c0</color>
+    <color name="speak_layout_bg_color">#F6F7FB</color>
+    <color name="speak_hint_color">#8d9dbc</color>
+    <color name="recording_text_color">#f94567</color>
+    <color name="edit_bg_color">#E7E9F3</color>
+ 
+
+    <!-- 表情点击效果 -->
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="indicator_color">#ff33b5e5</color>
+    <color name="default_circle_indicator_stroke_color">#00000000</color>
+    <color name="default_circle_indicator_fill_color">#FFFFFF</color>
+    <color name="default_circle_indicator_page_color">#8d9dbc</color>
+
+</resources>

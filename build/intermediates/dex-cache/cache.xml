@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3213ffd16a525da4700ab859e472abae870ed14">
+        <dex dex="/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/pre-dexed/debug/classes_fc6835a18368f6533c5c182369dbb0f0012987d5.jar" />
+    </item>
+
+</items>

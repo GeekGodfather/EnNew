@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/shape_bg_blue.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/shape_bg_blue.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/edit_bg.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/edit_bg.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/recording__btn_selector.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/recording__btn_selector.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/action_btn.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/action_btn.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/search_edt_bk.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/search_edt_bk.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/remember_checkbox.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/remember_checkbox.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/search_clear.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/search_clear.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/btn_select_selector.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/btn_select_selector.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/chat_press_speak_btn.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/bg_camera_selector.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/bg_camera_selector.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/recording_hint_bg.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/recording_hint_bg.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/layout_selector.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/layout_selector.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/scrollbar_vertical_thumb.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/drawable/text_indicator_selector.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/drawable/text_indicator_selector.xml"
+    }
+]

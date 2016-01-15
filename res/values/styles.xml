@@ -1,0 +1,33 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+     <style name="Theme" parent="@android:style/Theme"></style>
+
+    <style name="Theme.Tabhost">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    
+    
+    <style name="TextnormalStyle"  >     
+    <item name="android:textSize">18sp</item>
+    <item name="android:textStyle">normal</item>
+    <item name="android:width">10dp</item>
+    <item name="android:height">10dp</item>
+    <item name="android:textColor">@color/black</item>
+    
+    
+    
+  </style>
+  
+    
+     <style name="inoutformbottom" parent="android:Animation" mce_bogus="1">
+        <item name="android:windowEnterAnimation">@anim/anim_entry_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/anim_leave_from_bottom</item>
+    </style>
+
+</resources>

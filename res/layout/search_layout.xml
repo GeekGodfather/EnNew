@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/main_top_default_bk"
+    android:paddingBottom="5dip"
+    android:paddingLeft="10dip"
+    android:paddingRight="10dip"
+    android:paddingTop="5dip" >
+
+    <ImageView
+        android:id="@+id/title_left"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/back_btn"
+        android:visibility="gone" />
+
+    <com.ennew.widget.SearchEditText
+        android:id="@+id/maintop_search"
+        android:layout_width="fill_parent"
+        android:layout_height="35dp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/message_btn"
+        android:layout_toRightOf="@+id/title_left"
+        android:background="@drawable/search_edt_bk"
+        android:drawableLeft="@drawable/edittext_search"
+        android:drawablePadding="10dp"
+        android:gravity="left|center_vertical"
+        android:hint="搜索"
+        android:paddingLeft="10dp"
+        android:singleLine="true"
+        android:textColor="@android:color/black"
+        android:textColorHint="@color/default_key_color"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/message_btn"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/message" />
+
+</RelativeLayout>

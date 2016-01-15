@@ -1,0 +1,250 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/chat_root_layot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="#EEEFF5" >
+
+    <RelativeLayout
+        android:id="@+id/main_top"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@color/main_color" >
+
+        <ImageView
+            android:id="@+id/title_left"
+            android:layout_width="50dip"
+            android:layout_height="match_parent"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_back_write" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="聊天页面"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/speak_layout_bg_color"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/activity_chat_edit_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <ImageView
+                android:id="@+id/activity_chat_set_mode_keyboard"
+                android:layout_width="30dip"
+                android:layout_height="30dip"
+                android:layout_gravity="center_vertical|right"
+                android:layout_margin="1dip"
+                android:scaleType="fitCenter"
+                android:src="@drawable/chatting_setmode_voice_btn_normal"
+                android:visibility="visible" />
+
+            <RelativeLayout
+                android:id="@+id/edittext_layout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical" >
+
+                <ImageView
+                    android:id="@+id/activity_chat_arrow_down"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dip"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="30dip"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/icon_arrow_down"
+                    android:visibility="gone" />
+
+                <com.ennew.widget.EmojiEditText
+                    android:id="@+id/activity_chat_editText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edit_bg"
+                    android:maxLines="3"
+                    android:minHeight="30dp"
+                    android:textSize="18sp"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <ImageView
+                android:id="@+id/activity_chat_emoji"
+                android:layout_width="24dip"
+                android:layout_height="24dip"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="10dip"
+                android:scaleType="fitCenter"
+                android:src="@drawable/chatting_biaoqing_btn_normal"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/activity_chat_send"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:paddingTop="5dip"
+                android:paddingBottom="5dip"
+                android:textSize="@dimen/text_size_small"
+                android:text="@string/chat_send"
+                android:textColor="@color/white"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/activity_chat_more"
+                android:layout_width="30dip"
+                android:layout_height="30dip"
+                android:layout_gravity="center_vertical|right"
+                android:layout_margin="1dip"
+                android:scaleType="fitCenter"
+                android:src="@drawable/type_select_btn_nor"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            layout="@layout/emoji_layout"
+            android:visibility="gone" />
+
+        <!-- 录音按钮开始 -->
+
+        <LinearLayout
+            android:id="@+id/activity_chat_press_to_speak_layout"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/activity_chat_recording_hint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ugglide_cancel_send"
+                android:textColor="@color/speak_hint_color"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/activity_chat_press_to_speak"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/recording__btn_selector" />
+
+            <TextView
+                android:id="@+id/activity_chat_speak_propmt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hold_down_talk"
+                android:textColor="@color/speak_hint_color"
+                android:textSize="16sp" />
+        </LinearLayout>
+        <!-- 录音按钮结束 -->
+
+
+        <!-- 更多开始 -->
+
+        <LinearLayout
+            android:id="@+id/activity_btn_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dip"
+            android:layout_marginTop="10dip"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:id="@+id/activity_chat_take_picture"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="onMoreMenuClick"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/chat_takepic_normal"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/camera"
+                    android:textColor="#727171" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/activity_chat_picture"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="onMoreMenuClick"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/chat_image_normal"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/photo"
+                    android:textColor="#727171" />
+            </LinearLayout>
+        </LinearLayout>
+        <!-- 更多结束 -->
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottom_layout"
+        android:layout_below="@id/main_top" >
+
+        <ListView
+            android:id="@+id/activity_chat_listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="#00000000"
+            android:divider="@null"
+            android:dividerHeight="5dp"
+            android:listSelector="#00000000"
+            android:scrollbarStyle="outsideOverlay"
+            android:transcriptMode="normal" />
+    </FrameLayout>
+
+</RelativeLayout>

@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_photo_picker.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_photo_picker.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_addfriend.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_addfriend.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_homepage.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_homepage.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_persinglemodify.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_persinglemodify.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/emoji_cell.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/emoji_cell.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/item_photo_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/item_photo_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_photo_see.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_photo_see.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/friendslist_item_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/friendslist_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/emoji_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/emoji_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/fload_list_layout_stub.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/fload_list_layout_stub.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/main_top.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/main_top.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_smscode_ver.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_smscode_ver.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_search_friend_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_search_friend_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/dialog_smack_chat.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/dialog_smack_chat.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/tabbar_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/tabbar_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/item_chat_in.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/item_chat_in.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/main_tab_host.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/main_tab_host.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/homepage_item_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/homepage_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/item_chat_out.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/item_chat_out.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/hotrecommend_item_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/hotrecommend_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/conversation_item_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/conversation_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_shoppingcart.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_shoppingcart.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_password_mod.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_password_mod.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_my.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_my.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/item_floder_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/item_floder_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/common_head.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/common_head.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/main_tab_item.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/main_tab_item.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_per_detail.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_per_detail.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_shopping.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_shopping.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/emoji_grid.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/emoji_grid.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_password_rec.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_password_rec.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/search_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/search_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/search_friendslist_item_layout.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/search_friendslist_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_smscode_get.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_smscode_get.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/dialog_common.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/dialog_common.xml"
+    },
+    {
+        "merged": "/Users/lilong/Desktop/eclipse_workspace/EnNew/build/intermediates/res/merged/debug/layout/activity_chat_record.xml",
+        "source": "/Users/lilong/Desktop/eclipse_workspace/EnNew/res/layout/activity_chat_record.xml"
+    }
+]
